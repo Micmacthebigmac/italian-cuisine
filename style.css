@@ -18,3 +18,10 @@ body{
     background-image: url("images/trash-bottom.png");
     height: 24vh;
 }
+
+.herbPosition{
+    position: absolute;
+    top: 500vh;
+    width: 100px;
+    
+}

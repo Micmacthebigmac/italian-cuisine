@@ -65,6 +65,79 @@
 </div>
 
 
+  <div> <!-- section 1 our specialitties + fond blur -->
+
+<p><img src="images/our-specialities.png" alt="Our specialities"></p>
+
+<div class="fondBlur"></div>
+
+  </div>
+
+  <p><img src="images/rosemary.png" alt="Herb" class="herbPoistion"></p>
+
+  <div> <!-- section 2 hreb + pizza + Italian Pizza -->
+
+
+<p><img src="images/pizza-photo.png" alt="Image de Pizza"></p>
+
+<p><img src="images/italian-cuisine.png" alt="Italian Pizza"></p>
+
+  </div>
+
+<!-- Deuxième background -->
+
+<div> <!-- section 3 Menu +  pizza 1,2,3,4 + who are we -->
+
+<p><img src="images/menu2.png" alt="Menu"></p>
+
+
+<div>
+
+  <div></div>
+
+  <div></div>
+
+  <div></div>
+
+  <div></div>
+
+</div>
+
+<!-- Fin background -->
+
+<p><img src="images/who are we_.png" alt="Who are you"></p>
+
+</div>
+
+<div> <!-- section 4 TEXT + ingredients + branches -->
+
+<p>TEXT</p>
+
+<p><img src="images/ingredients.png" alt="Ingredients"></p>
+
+<p><img src="images/branches.png" alt="Branches"></p>
+
+</div>
+
+<div> <!-- section 5 contact us + info + 00 + logo inst,fac,twi -->
+
+<div>
+<p>contact us<p><p>info@pizza.com</p><p>+ 00 555 55 55</p>
+</div>
+
+<div><img src="images/Insta.png" alt="logo insta"></div>
+
+<div><img src="images/facebook-noir.png" alt="logo facebook"></div>
+
+<div><img src="images/twitter.png" alt="logo twitter"></div>
+
+</div>
+
+
+
+
+
+
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js" integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf" crossorigin="anonymous"></script>
 </body>
 </html>
